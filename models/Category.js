@@ -13,7 +13,7 @@ Category.init(
       allowNull: false
     },
     category_name:{
-      typa:DataTypes.STRING
+      type:DataTypes.STRING
     },
   },
   {
