@@ -15,11 +15,13 @@ WHEN he test API POST, PUT, and DELETE routes in Insomnia Core THEN he is able t
 https://github.com/MK0999/ecommerce/blob/main/Screenshots/Screenshot%20(58).png
 https://github.com/MK0999/ecommerce/blob/main/Screenshots/Screenshot%20(59).png
 https://github.com/MK0999/ecommerce/blob/main/Screenshots/Screenshot%20(60).png
+https://github.com/MK0999/ecommerce/blob/main/Screenshots/Screenshot%20(61).png
 
 # Credit
   -Bootcamp study material
 - Ask Bcs app
 - Tutor- Phillip Loy
+  
   # Links
  Walkthrough Video- https://drive.google.com/file/d/1mcXNvxj1opei2p-oyJbeJxZp5tSIgBiL/view
 - REPO- https://github.com/MK0999/ecommerce
