@@ -8,12 +8,12 @@ router.get('/', (req, res) => {
     res.json(categoryData);
   })
   // find all categories
-  // be sure to include its associated Products
+  //include its associated Products
 });
 
 router.get('/:id', (req, res) => {
   //   // find one category by its `id` value
-  //   // be sure to include its associated Products
+  //   // include its associated Products
   Category.findByPk(req.params.id).then((categoryData) => {
     res.json(categoryData);
   });
